@@ -32,3 +32,10 @@ table, td{
 .ienjoy{
     background-color: ivory;
 }
+table{
+    width:100%;
+    table-layout: fixed;
+}
+table thead tr{
+    width: 100%;
+}
