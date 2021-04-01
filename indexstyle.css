@@ -1,0 +1,26 @@
+.mainp {
+    background-color: darksalmon;
+
+}
+#maintitle{
+    color: #FFFFFF;
+    background-color: #673AB7;
+    text-align:center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+#aboutme{
+    margin-top: 0;
+    padding-top: 0;
+    background-color: #009688;
+    color:#FFFFFF;
+}
+table, td{
+    border:black 1px solid;
+    border-collapse:collapse;
+}
+.firstline{
+    color: #FFFFFF;
+    background-color: #35395D;
+    text-align: center;
+}
