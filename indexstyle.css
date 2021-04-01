@@ -1,6 +1,11 @@
 .mainp {
-    background-color: darksalmon;
-
+    background-color: #AB9E68;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: moccasin;
+    text-rendering: inherit;
+    font-family:'Times New Roman', Times, serif;
 }
 #maintitle{
     color: #FFFFFF;
@@ -23,4 +28,7 @@ table, td{
     color: #FFFFFF;
     background-color: #35395D;
     text-align: center;
+}
+.ienjoy{
+    background-color: ivory;
 }
